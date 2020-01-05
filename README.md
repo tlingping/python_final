@@ -1,14 +1,14 @@
 # 18级《Python》与17级《交互式数据可视化》协作期末项目
 ## 项目名称：世界出入境人数与就业人口人均GDP之间的关系
 ### 项目展示
-* [pythonanywhere 链接](http://lingpingtang0.pythonanywhere.com/)
+* [pythonanywhere 链接](http://lingpingtang0.pythonanywhere.com)
 
 本网站一共有6个url
 * [使用for循环下拉框遍历option且选中想要的值，点击"do it！"出现图表](http://lingpingtang0.pythonanywhere.com/hurun)
-* [2010、2013、2017国际入境人数](http://lingpingtang0.pythonanywhere.com//arrivals)
-* [2010、2013、2017国际离境人数](http://lingpingtang0.pythonanywhere.com//departure)
-* [高收入水平国家的出入境人数](http://lingpingtang0.pythonanywhere.com//high)
-* [低收入水平国家的出入境人数](http://lingpingtang0.pythonanywhere.com//low)
+* [2010、2013、2017国际入境人数](http://lingpingtang0.pythonanywhere.com/arrivals)
+* [2010、2013、2017国际离境人数](http://lingpingtang0.pythonanywhere.com/departure)
+* [高收入水平国家的出入境人数](http://lingpingtang0.pythonanywhere.com/high)
+* [低收入水平国家的出入境人数](http://lingpingtang0.pythonanywhere.com/low)
 * [使用if/else语句写小结](http://lingpingtang0.pythonanywhere.com/all)
 
 
