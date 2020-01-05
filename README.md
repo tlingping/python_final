@@ -3,7 +3,7 @@
 ### 项目展示
 * [pythonanywhere 链接](http://lingpingtang0.pythonanywhere.com/)
 
-本网站一共有   个url
+本网站一共有6个url
 * [使用for循环下拉框遍历option且选中想要的值，点击"do it！"出现图表](http://lingpingtang0.pythonanywhere.com/hurun)
 * [2010、2013、2017国际入境人数](http://lingpingtang0.pythonanywhere.com//arrivals)
 * [2010、2013、2017国际离境人数](http://lingpingtang0.pythonanywhere.com//departure)
