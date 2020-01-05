@@ -1,0 +1,875 @@
+Country Name,Indicator Name,Year,Value,lifeExp
+China,number of arrivals,1997,23770000,Upper middle income
+China,number of arrivals,2007,54720000,Upper middle income
+China,number of arrivals,2017,60740000,Upper middle income
+China,number of departures,1997,5324000,Upper middle income
+China,number of departures,2007,40954000,Upper middle income
+China,number of departures,2017,143035000,Upper middle income
+France,number of arrivals,1997,66591000,High income
+France,number of arrivals,2007,80853000,High income
+France,number of arrivals,2017,86861000,High income
+France,number of departures,1997,17115000,High income
+France,number of departures,2007,28103000,High income
+France,number of departures,2017,29055000,High income
+Germany,number of arrivals,1997,15837000,High income
+Germany,number of arrivals,2007,24421000,High income
+Germany,number of arrivals,2017,37452000,High income
+Germany,number of departures,1997,55800000,High income
+Germany,number of departures,2007,82099000,High income
+Germany,number of departures,2017,92402000,High income
+Mexico,number of arrivals,1997,19351000,Upper middle income
+Mexico,number of arrivals,2007,21606000,Upper middle income
+Mexico,number of arrivals,2017,39291000,Upper middle income
+Mexico,number of departures,1997,8910000,Upper middle income
+Mexico,number of departures,2007,15257000,Upper middle income
+Mexico,number of departures,2017,19067000,Upper middle income
+Peru,number of arrivals,1997,649000,Upper middle income
+Peru,number of arrivals,2007,1916000,Upper middle income
+Peru,number of arrivals,2017,4032000,Upper middle income
+Peru,number of departures,1997,577000,Upper middle income
+Peru,number of departures,2007,1915000,Upper middle income
+Peru,number of departures,2017,2875000,Upper middle income
+Spain,number of arrivals,1997,39553000,High income
+Spain,number of arrivals,2007,58666000,High income
+Spain,number of arrivals,2017,81786000,High income
+Spain,number of departures,1997,3980000,High income
+Spain,number of departures,2007,11276000,High income
+Spain,number of departures,2017,17031000,High income
+Thailand,number of arrivals,1997,7294000,Upper middle income
+Thailand,number of arrivals,2007,14464000,Upper middle income
+Thailand,number of arrivals,2017,35592000,Upper middle income
+Thailand,number of departures,1997,1660000,Upper middle income
+Thailand,number of departures,2007,4018000,Upper middle income
+Thailand,number of departures,2017,8963000,Upper middle income
+India,number of arrivals,1997,2374000,Lower middle income
+India,number of arrivals,2007,5082000,Lower middle income
+India,number of arrivals,2017,15543000,Lower middle income
+India,number of departures,1997,3726000,Lower middle income
+India,number of departures,2007,9783000,Lower middle income
+India,number of departures,2017,23943000,Lower middle income
+Lao PDR,number of arrivals,1997,193000,Lower middle income
+Lao PDR,number of arrivals,2007,1142000,Lower middle income
+Lao PDR,number of arrivals,2017,3257000,Lower middle income
+Lao PDR,number of departures,1997,,Lower middle income
+Lao PDR,number of departures,2007,,Lower middle income
+Lao PDR,number of departures,2017,3049000,Lower middle income
+Indonesia,number of arrivals,1997,5185000,Lower middle income
+Indonesia,number of arrivals,2007,5506000,Lower middle income
+Indonesia,number of arrivals,2017,14040000,Lower middle income
+Indonesia,number of departures,1997,,Lower middle income
+Indonesia,number of departures,2007,5158000,Lower middle income
+Indonesia,number of departures,2017,8856000,Lower middle income
+Nepal,number of arrivals,1997,422000,Low income
+Nepal,number of arrivals,2007,527000,Low income
+Nepal,number of arrivals,2017,940000,Low income
+Nepal,number of departures,1997,132000,Low income
+Nepal,number of departures,2007,469000,Low income
+Nepal,number of departures,2017,1197000,Low income
+Burundi,number of arrivals,1997,11000,Low income
+Burundi,number of arrivals,2007,192000,Low income
+Burundi,number of arrivals,2017,299000,Low income
+Burundi,number of departures,1997,10000,Low income
+Burundi,number of departures,2007,,Low income
+Burundi,number of departures,2017,,Low income
+"Congo, Dem. Rep.",number of arrivals,1997,,Low income
+"Congo, Dem. Rep.",number of arrivals,2007,30000,Low income
+"Congo, Dem. Rep.",number of arrivals,2017,47000,Low income
+"Gambia, The",number of arrivals,1997,85000,Low income
+"Gambia, The",number of arrivals,2007,143000,Low income
+"Gambia, The",number of arrivals,2017,162000,Low income
+Haiti,number of arrivals,1997,149000,Low income
+Haiti,number of arrivals,2007,386000,Low income
+Haiti,number of arrivals,2017,467000,Low income
+Malawi,number of arrivals,1997,207000,Low income
+Malawi,number of arrivals,2007,735000,Low income
+Malawi,number of arrivals,2017,837000,Low income
+Sierra Leone,number of arrivals,1997,7500,Low income
+Sierra Leone,number of arrivals,2007,32200,Low income
+Sierra Leone,number of arrivals,2017,,Low income
+Sierra Leone,number of departures,1997,6000,Low income
+Sierra Leone,number of departures,2007,71000,Low income
+Sierra Leone,number of departures,2017,,Low income
+Syrian Arab Republic,number of arrivals,1997,891000,Low income
+Syrian Arab Republic,number of arrivals,2007,4158000,Low income
+Syrian Arab Republic,number of arrivals,2017,,Low income
+Syrian Arab Republic,number of departures,1997,2299000,Low income
+Syrian Arab Republic,number of departures,2007,4196000,Low income
+Syrian Arab Republic,number of departures,2017,,Low income
+Togo,number of arrivals,1997,92000,Low income
+Togo,number of arrivals,2007,86000,Low income
+Togo,number of arrivals,2017,496000,Low income
+Benin,number of arrivals,1997,148000,Low income
+Benin,number of arrivals,2007,186000,Low income
+Benin,number of arrivals,2017,281000,Low income
+Central African Republic,number of arrivals,1997,17000,Low income
+Central African Republic,number of arrivals,2007,17100,Low income
+Central African Republic,number of arrivals,2017,,Low income
+Eritrea,number of arrivals,1997,410000,Low income
+Eritrea,number of arrivals,2007,81000,Low income
+Eritrea,number of arrivals,2017,,Low income
+Guinea,number of arrivals,1997,17000,Low income
+Guinea,number of arrivals,2007,30000,Low income
+Guinea,number of arrivals,2017,,Low income
+Mali,number of arrivals,1997,75000,Low income
+Mali,number of arrivals,2007,164000,Low income
+Mali,number of arrivals,2017,193300,Low income
+Niger,number of arrivals,1997,68000,Low income
+Niger,number of arrivals,2007,48000,Low income
+Niger,number of arrivals,2017,164000,Low income
+Niger,number of departures,1997,10000,Low income
+Niger,number of departures,2007,,Low income
+Niger,number of departures,2017,,Low income
+Tajikistan,number of arrivals,1997,2100,Low income
+Tajikistan,number of arrivals,2007,,Low income
+Tajikistan,number of arrivals,2017,431000,Low income
+Tajikistan,number of departures,1997,,Low income
+Tajikistan,number of departures,2007,,Low income
+Tajikistan,number of departures,2017,31000,Low income
+Uganda,number of arrivals,1997,175000,Low income
+Uganda,number of arrivals,2007,642000,Low income
+Uganda,number of arrivals,2017,1402000,Low income
+Uganda,number of departures,1997,148000,Low income
+Uganda,number of departures,2007,272000,Low income
+Uganda,number of departures,2017,,Low income
+Burkina Faso,number of arrivals,1997,138000,Low income
+Burkina Faso,number of arrivals,2007,289000,Low income
+Burkina Faso,number of arrivals,2017,143000,Low income
+Chad,number of arrivals,1997,,Low income
+Chad,number of arrivals,2007,77000,Low income
+Chad,number of arrivals,2017,87000,Low income
+Chad,number of departures,1997,,Low income
+Chad,number of departures,2007,,Low income
+Chad,number of departures,2017,52000,Low income
+Ethiopia,number of arrivals,1997,139000,Low income
+Ethiopia,number of arrivals,2007,358000,Low income
+Ethiopia,number of arrivals,2017,933000,Low income
+Madagascar,number of arrivals,1997,101000,Low income
+Madagascar,number of arrivals,2007,344000,Low income
+Madagascar,number of arrivals,2017,255000,Low income
+Mozambique,number of arrivals,1997,,Low income
+Mozambique,number of arrivals,2007,771000,Low income
+Mozambique,number of arrivals,2017,1447000,Low income
+Tanzania,number of arrivals,1997,347000,Low income
+Tanzania,number of arrivals,2007,692000,Low income
+Tanzania,number of arrivals,2017,1275000,Low income
+"Yemen, Rep.",number of arrivals,1997,80000,Low income
+"Yemen, Rep.",number of arrivals,2007,948000,Low income
+"Yemen, Rep.",number of arrivals,2017,,Low income
+Australia,number of arrivals,1997,4318000,High income
+Australia,number of arrivals,2007,5644000,High income
+Australia,number of arrivals,2017,8815000,High income
+Australia,number of departures,1997,2933000,High income
+Australia,number of departures,2007,5462000,High income
+Australia,number of departures,2017,10932000,High income
+Bahrain,number of arrivals,1997,2600000,High income
+Bahrain,number of arrivals,2007,7833000,High income
+Bahrain,number of arrivals,2017,11370000,High income
+Bermuda,number of arrivals,1997,380000,High income
+Bermuda,number of arrivals,2007,306000,High income
+Bermuda,number of arrivals,2017,270000,High income
+Bermuda,number of departures,1997,,High income
+Bermuda,number of departures,2007,181000,High income
+Bermuda,number of departures,2017,,High income
+Canada,number of arrivals,1997,17669000,High income
+Canada,number of arrivals,2007,17935000,High income
+Canada,number of arrivals,2017,20798000,High income
+Canada,number of departures,1997,19111000,High income
+Canada,number of departures,2007,25163000,High income
+Canada,number of departures,2017,33060000,High income
+Chile,number of arrivals,1997,1644000,High income
+Chile,number of arrivals,2007,2507000,High income
+Chile,number of arrivals,2017,6450000,High income
+Chile,number of departures,1997,,High income
+Chile,number of departures,2007,2047000,High income
+Chile,number of departures,2017,3620000,High income
+Cyprus,number of arrivals,1997,2088000,High income
+Cyprus,number of arrivals,2007,2416000,High income
+Cyprus,number of arrivals,2017,3652000,High income
+Cyprus,number of departures,1997,422000,High income
+Cyprus,number of departures,2007,1081000,High income
+Cyprus,number of departures,2017,1407000,High income
+Estonia,number of arrivals,1997,730000,High income
+Estonia,number of arrivals,2007,1900000,High income
+Estonia,number of arrivals,2017,3245000,High income
+Estonia,number of departures,1997,1616000,High income
+Estonia,number of departures,2007,677000,High income
+Estonia,number of departures,2017,1279000,High income
+Guam,number of arrivals,1997,1382000,High income
+Guam,number of arrivals,2007,1225000,High income
+Guam,number of arrivals,2017,1544000,High income
+Iceland,number of arrivals,1997,202000,High income
+Iceland,number of arrivals,2007,485000,High income
+Iceland,number of arrivals,2017,2225000,High income
+Iceland,number of departures,1997,203000,High income
+Iceland,number of departures,2007,460000,High income
+Iceland,number of departures,2017,619000,High income
+Israel,number of arrivals,1997,2010000,High income
+Israel,number of arrivals,2007,2067000,High income
+Israel,number of arrivals,2017,3613000,High income
+Israel,number of departures,1997,2707000,High income
+Israel,number of departures,2007,4147000,High income
+Israel,number of departures,2017,7597000,High income
+"Korea, Rep.",number of arrivals,1997,3908000,High income
+"Korea, Rep.",number of arrivals,2007,6448000,High income
+"Korea, Rep.",number of arrivals,2017,13336000,High income
+"Korea, Rep.",number of departures,1997,4542000,High income
+"Korea, Rep.",number of departures,2007,13325000,High income
+"Korea, Rep.",number of departures,2017,26496000,High income
+Liechtenstein,number of arrivals,1997,57000,High income
+Liechtenstein,number of arrivals,2007,58300,High income
+Liechtenstein,number of arrivals,2017,69000,High income
+"Macao SAR, China",number of arrivals,1997,3836000,High income
+"Macao SAR, China",number of arrivals,2007,12945000,High income
+"Macao SAR, China",number of arrivals,2017,17255000,High income
+"Macao SAR, China",number of departures,1997,,High income
+"Macao SAR, China",number of departures,2007,599000,High income
+"Macao SAR, China",number of departures,2017,1391000,High income
+Netherlands,number of arrivals,1997,7841000,High income
+Netherlands,number of arrivals,2007,11008000,High income
+Netherlands,number of arrivals,2017,17924000,High income
+Netherlands,number of departures,1997,12858000,High income
+Netherlands,number of departures,2007,17523000,High income
+Netherlands,number of departures,2017,,High income
+Northern Mariana Islands,number of arrivals,1997,685000,High income
+Northern Mariana Islands,number of arrivals,2007,385000,High income
+Northern Mariana Islands,number of arrivals,2017,656000,High income
+Poland,number of arrivals,1997,19520000,High income
+Poland,number of arrivals,2007,14975000,High income
+Poland,number of arrivals,2017,18258000,High income
+Poland,number of departures,1997,48610000,High income
+Poland,number of departures,2007,47561000,High income
+Poland,number of departures,2017,46700000,High income
+Qatar,number of arrivals,1997,333000,High income
+Qatar,number of arrivals,2007,964000,High income
+Qatar,number of arrivals,2017,2256500,High income
+Seychelles,number of arrivals,1997,130000,High income
+Seychelles,number of arrivals,2007,161000,High income
+Seychelles,number of arrivals,2017,350000,High income
+Seychelles,number of departures,1997,30000,High income
+Seychelles,number of departures,2007,58000,High income
+Seychelles,number of departures,2017,74000,High income
+Slovak Republic,number of arrivals,1997,814000,High income
+Slovak Republic,number of arrivals,2007,1685000,High income
+Slovak Republic,number of arrivals,2017,2162000,High income
+Slovak Republic,number of departures,1997,,High income
+Slovak Republic,number of departures,2007,3603000,High income
+Slovak Republic,number of departures,2017,3870000,High income
+Switzerland,number of arrivals,1997,7039000,High income
+Switzerland,number of arrivals,2007,8448000,High income
+Switzerland,number of arrivals,2017,9889000,High income
+Switzerland,number of departures,1997,12515000,High income
+Switzerland,number of departures,2007,,High income
+Switzerland,number of departures,2017,15318000,High income
+Uruguay,number of arrivals,1997,2316000,High income
+Uruguay,number of arrivals,2007,1753000,High income
+Uruguay,number of arrivals,2017,3674000,High income
+Uruguay,number of departures,1997,562000,High income
+Uruguay,number of departures,2007,635000,High income
+Uruguay,number of departures,2017,1789000,High income
+Antigua and Barbuda,number of arrivals,1997,240000,High income
+Antigua and Barbuda,number of arrivals,2007,262000,High income
+Antigua and Barbuda,number of arrivals,2017,247000,High income
+Austria,number of arrivals,1997,16647000,High income
+Austria,number of arrivals,2007,20773000,High income
+Austria,number of arrivals,2017,29460000,High income
+Austria,number of departures,1997,,High income
+Austria,number of departures,2007,9876000,High income
+Austria,number of departures,2017,11491000,High income
+Barbados,number of arrivals,1997,472000,High income
+Barbados,number of arrivals,2007,575000,High income
+Barbados,number of arrivals,2017,664000,High income
+British Virgin Islands,number of arrivals,1997,244000,High income
+British Virgin Islands,number of arrivals,2007,358000,High income
+British Virgin Islands,number of arrivals,2017,335000,High income
+British Virgin Islands,number of departures,1997,,High income
+British Virgin Islands,number of departures,2007,166000,High income
+British Virgin Islands,number of departures,2017,,High income
+Cayman Islands,number of arrivals,1997,381000,High income
+Cayman Islands,number of arrivals,2007,292000,High income
+Cayman Islands,number of arrivals,2017,418000,High income
+Croatia,number of arrivals,1997,4178000,High income
+Croatia,number of arrivals,2007,8559000,High income
+Croatia,number of arrivals,2017,15593000,High income
+Croatia,number of departures,1997,,High income
+Croatia,number of departures,2007,,High income
+Croatia,number of departures,2017,1923000,High income
+Czech Republic,number of arrivals,1997,4976000,High income
+Czech Republic,number of arrivals,2007,6680000,High income
+Czech Republic,number of arrivals,2017,10160000,High income
+Czech Republic,number of departures,1997,,High income
+Czech Republic,number of departures,2007,9048000,High income
+Czech Republic,number of departures,2017,6775000,High income
+French Polynesia,number of arrivals,1997,180000,High income
+French Polynesia,number of arrivals,2007,218000,High income
+French Polynesia,number of arrivals,2017,199000,High income
+French Polynesia,number of departures,1997,,High income
+French Polynesia,number of departures,2007,,High income
+French Polynesia,number of departures,2017,55000,High income
+Greece,number of arrivals,1997,10070000,High income
+Greece,number of arrivals,2007,16165000,High income
+Greece,number of arrivals,2017,27194000,High income
+Greece,number of departures,1997,,High income
+Greece,number of departures,2007,,High income
+Greece,number of departures,2017,7685000,High income
+"Hong Kong SAR, China",number of arrivals,1997,,High income
+"Hong Kong SAR, China",number of arrivals,2007,17154000,High income
+"Hong Kong SAR, China",number of arrivals,2017,27884000,High income
+"Hong Kong SAR, China",number of departures,1997,,High income
+"Hong Kong SAR, China",number of departures,2007,80682000,High income
+"Hong Kong SAR, China",number of departures,2017,91304000,High income
+Ireland,number of arrivals,1997,5587000,High income
+Ireland,number of arrivals,2007,8332000,High income
+Ireland,number of arrivals,2017,10338000,High income
+Ireland,number of departures,1997,3053000,High income
+Ireland,number of departures,2007,7713000,High income
+Ireland,number of departures,2017,8171000,High income
+Italy,number of arrivals,1997,34692000,High income
+Italy,number of arrivals,2007,43654000,High income
+Italy,number of arrivals,2017,58253000,High income
+Italy,number of departures,1997,17254000,High income
+Italy,number of departures,2007,25789000,High income
+Italy,number of departures,2017,31805000,High income
+Lithuania,number of arrivals,1997,1012000,High income
+Lithuania,number of arrivals,2007,1486000,High income
+Lithuania,number of arrivals,2017,2523000,High income
+Lithuania,number of departures,1997,2981000,High income
+Lithuania,number of departures,2007,1661000,High income
+Lithuania,number of departures,2017,2032000,High income
+Malta,number of arrivals,1997,1111000,High income
+Malta,number of arrivals,2007,1244000,High income
+Malta,number of arrivals,2017,2274000,High income
+Malta,number of departures,1997,172000,High income
+Malta,number of departures,2007,280000,High income
+Malta,number of departures,2017,573000,High income
+New Caledonia,number of arrivals,1997,105000,High income
+New Caledonia,number of arrivals,2007,103000,High income
+New Caledonia,number of arrivals,2017,121000,High income
+New Caledonia,number of departures,1997,63000,High income
+New Caledonia,number of departures,2007,106000,High income
+New Caledonia,number of departures,2017,135000,High income
+Norway,number of arrivals,1997,2702000,High income
+Norway,number of arrivals,2007,4377000,High income
+Norway,number of arrivals,2017,6252000,High income
+Norway,number of departures,1997,753000,High income
+Norway,number of departures,2007,3395000,High income
+Norway,number of departures,2017,8170000,High income
+Palau,number of arrivals,1997,74000,High income
+Palau,number of arrivals,2007,88000,High income
+Palau,number of arrivals,2017,123000,High income
+Portugal,number of arrivals,1997,4798000,High income
+Portugal,number of arrivals,2007,6788000,High income
+Portugal,number of arrivals,2017,15432000,High income
+Portugal,number of departures,1997,,High income
+Portugal,number of departures,2007,20989000,High income
+Portugal,number of departures,2017,2195000,High income
+San Marino,number of arrivals,1997,28000,High income
+San Marino,number of arrivals,2007,69000,High income
+San Marino,number of arrivals,2017,78000,High income
+Singapore,number of arrivals,1997,5894000,High income
+Singapore,number of arrivals,2007,7957000,High income
+Singapore,number of arrivals,2017,13903000,High income
+Singapore,number of departures,1997,3671000,High income
+Singapore,number of departures,2007,6024000,High income
+Singapore,number of departures,2017,9889000,High income
+Slovenia,number of arrivals,1997,974000,High income
+Slovenia,number of arrivals,2007,1751000,High income
+Slovenia,number of arrivals,2017,3586000,High income
+Slovenia,number of departures,1997,,High income
+Slovenia,number of departures,2007,2496000,High income
+Slovenia,number of departures,2017,3013000,High income
+Trinidad and Tobago,number of arrivals,1997,324000,High income
+Trinidad and Tobago,number of arrivals,2007,449000,High income
+Trinidad and Tobago,number of arrivals,2017,395000,High income
+United Kingdom,number of arrivals,1997,23215000,High income
+United Kingdom,number of arrivals,2007,30870000,High income
+United Kingdom,number of arrivals,2017,37651000,High income
+United Kingdom,number of departures,1997,45957000,High income
+United Kingdom,number of departures,2007,69450000,High income
+United Kingdom,number of departures,2017,74189000,High income
+Aruba,number of arrivals,1997,650000,High income
+Aruba,number of arrivals,2007,772000,High income
+Aruba,number of arrivals,2017,1070500,High income
+"Bahamas, The",number of arrivals,1997,1618000,High income
+"Bahamas, The",number of arrivals,2007,1528000,High income
+"Bahamas, The",number of arrivals,2017,1439000,High income
+Belgium,number of arrivals,1997,6037000,High income
+Belgium,number of arrivals,2007,7045000,High income
+Belgium,number of arrivals,2017,8385000,High income
+Belgium,number of departures,1997,7548000,High income
+Belgium,number of departures,2007,8371000,High income
+Belgium,number of departures,2017,12153000,High income
+Curacao,number of arrivals,1997,205000,High income
+Curacao,number of arrivals,2007,300000,High income
+Curacao,number of arrivals,2017,399000,High income
+Denmark,number of arrivals,1997,2158000,High income
+Denmark,number of arrivals,2007,9832000,High income
+Denmark,number of arrivals,2017,11743000,High income
+Denmark,number of departures,1997,4693000,High income
+Denmark,number of departures,2007,6564000,High income
+Denmark,number of departures,2017,8102000,High income
+Finland,number of arrivals,1997,1832000,High income
+Finland,number of arrivals,2007,2472000,High income
+Finland,number of arrivals,2017,3180000,High income
+Finland,number of departures,1997,5233000,High income
+Finland,number of departures,2007,5749000,High income
+Finland,number of departures,2017,9330000,High income
+Hungary,number of arrivals,1997,2887000,High income
+Hungary,number of arrivals,2007,3451000,High income
+Hungary,number of arrivals,2017,5650000,High income
+Hungary,number of departures,1997,12173000,High income
+Hungary,number of departures,2007,17056000,High income
+Hungary,number of departures,2017,20297000,High income
+Japan,number of arrivals,1997,4218000,High income
+Japan,number of arrivals,2007,8347000,High income
+Japan,number of arrivals,2017,28691000,High income
+Japan,number of departures,1997,16803000,High income
+Japan,number of departures,2007,17295000,High income
+Japan,number of departures,2017,17889000,High income
+Latvia,number of arrivals,1997,635000,High income
+Latvia,number of arrivals,2007,1653000,High income
+Latvia,number of arrivals,2017,1949000,High income
+Latvia,number of departures,1997,1877000,High income
+Latvia,number of departures,2007,3398000,High income
+Latvia,number of departures,2017,2055000,High income
+Luxembourg,number of arrivals,1997,778000,High income
+Luxembourg,number of arrivals,2007,914000,High income
+Luxembourg,number of arrivals,2017,1046000,High income
+Luxembourg,number of departures,1997,694000,High income
+Luxembourg,number of departures,2007,1132000,High income
+Luxembourg,number of departures,2017,1802000,High income
+Monaco,number of arrivals,1997,259000,High income
+Monaco,number of arrivals,2007,328000,High income
+Monaco,number of arrivals,2017,355000,High income
+New Zealand,number of arrivals,1997,,High income
+New Zealand,number of arrivals,2007,2434000,High income
+New Zealand,number of arrivals,2017,3555000,High income
+New Zealand,number of departures,1997,1132000,High income
+New Zealand,number of departures,2007,1978000,High income
+New Zealand,number of departures,2017,2853000,High income
+Oman,number of arrivals,1997,376000,High income
+Oman,number of arrivals,2007,1223000,High income
+Oman,number of arrivals,2017,2372000,High income
+Oman,number of departures,1997,,High income
+Oman,number of departures,2007,2263000,High income
+Oman,number of departures,2017,4473000,High income
+Panama,number of arrivals,1997,421000,High income
+Panama,number of arrivals,2007,1103000,High income
+Panama,number of arrivals,2017,1843000,High income
+Panama,number of departures,1997,194000,High income
+Panama,number of departures,2007,314000,High income
+Panama,number of departures,2017,917000,High income
+Puerto Rico,number of arrivals,1997,3242000,High income
+Puerto Rico,number of arrivals,2007,3687000,High income
+Puerto Rico,number of arrivals,2017,3797000,High income
+Puerto Rico,number of departures,1997,1251000,High income
+Puerto Rico,number of departures,2007,1441000,High income
+Puerto Rico,number of departures,2017,792000,High income
+Saudi Arabia,number of arrivals,1997,,High income
+Saudi Arabia,number of arrivals,2007,11531000,High income
+Saudi Arabia,number of arrivals,2017,16109000,High income
+Saudi Arabia,number of departures,1997,,High income
+Saudi Arabia,number of departures,2007,4126000,High income
+Saudi Arabia,number of departures,2017,21071000,High income
+Sint Maarten (Dutch part),number of arrivals,1997,439000,High income
+Sint Maarten (Dutch part),number of arrivals,2007,469000,High income
+Sint Maarten (Dutch part),number of arrivals,2017,402000,High income
+Sweden,number of arrivals,1997,2388000,High income
+Sweden,number of arrivals,2007,5224000,High income
+Sweden,number of arrivals,2017,7054000,High income
+Sweden,number of departures,1997,10818000,High income
+Sweden,number of departures,2007,12692000,High income
+Sweden,number of departures,2017,21232000,High income
+Turks and Caicos Islands,number of arrivals,1997,93000,High income
+Turks and Caicos Islands,number of arrivals,2007,265000,High income
+Turks and Caicos Islands,number of arrivals,2017,416400,High income
+United States,number of arrivals,1997,47767000,High income
+United States,number of arrivals,2007,56135000,High income
+United States,number of arrivals,2017,76941000,High income
+United States,number of arrivals,1997,53229000,High income
+United States,number of arrivals,2007,64049000,High income
+United States,number of arrivals,2017,87703000,High income
+Algeria,number of departures,1997,827000,Upper middle income
+Argentina,number of departures,1997,4517000,Upper middle income
+Azerbaijan,number of departures,1997,654000,Upper middle income
+Belarus,number of departures,1997,969000,Upper middle income
+Brazil,number of departures,1997,4014000,Upper middle income
+Bulgaria,number of departures,1997,3059000,Upper middle income
+Colombia,number of departures,1997,1071000,Upper middle income
+Costa Rica,number of departures,1997,288000,Upper middle income
+Cuba,number of departures,1997,83000,Upper middle income
+Dominican Republic,number of departures,1997,355000,Upper middle income
+Ecuador,number of departures,1997,321000,Upper middle income
+Fiji,number of departures,1997,74000,Upper middle income
+Georgia,number of departures,1997,355000,Upper middle income
+Guatemala,number of departures,1997,331000,Upper middle income
+"Iran, Islamic Rep.",number of departures,1997,1433000,Upper middle income
+Jordan,number of departures,1997,1233000,Upper middle income
+Kazakhstan,number of departures,1997,419000,Upper middle income
+Libya,number of departures,1997,650000,Upper middle income
+Malaysia,number of departures,1997,26165000,Upper middle income
+Maldives,number of departures,1997,33000,Upper middle income
+Mauritius,number of departures,1997,132000,Upper middle income
+Paraguay,number of departures,1997,369000,Upper middle income
+Romania,number of departures,1997,6243000,Upper middle income
+Russian Federation,number of departures,1997,11182000,Upper middle income
+Sri Lanka,number of departures,1997,531000,Upper middle income
+Turkey,number of departures,1997,4633000,Upper middle income
+Turkmenistan,number of departures,1997,31000,Upper middle income
+"Venezuela, RB",number of departures,1997,460000,Upper middle income
+Albania,number of departures,2007,2979000,Upper middle income
+Algeria,number of departures,2007,1499000,Upper middle income
+Argentina,number of departures,2007,4167000,Upper middle income
+Armenia,number of departures,2007,468000,Upper middle income
+Azerbaijan,number of departures,2007,1631000,Upper middle income
+Belarus,number of departures,2007,517000,Upper middle income
+Brazil,number of departures,2007,4662000,Upper middle income
+Bulgaria,number of departures,2007,4515000,Upper middle income
+Colombia,number of departures,2007,2028000,Upper middle income
+Costa Rica,number of departures,2007,577000,Upper middle income
+Cuba,number of departures,2007,194000,Upper middle income
+Dominican Republic,number of departures,2007,443000,Upper middle income
+Ecuador,number of departures,2007,801000,Upper middle income
+Fiji,number of departures,2007,120000,Upper middle income
+Georgia,number of departures,2007,1473000,Upper middle income
+Guatemala,number of departures,2007,1168000,Upper middle income
+Jordan,number of departures,2007,2094000,Upper middle income
+Kazakhstan,number of departures,2007,4449000,Upper middle income
+Maldives,number of departures,2007,102000,Upper middle income
+Mauritius,number of departures,2007,213000,Upper middle income
+Paraguay,number of departures,2007,242000,Upper middle income
+Romania,number of departures,2007,10980000,Upper middle income
+Russian Federation,number of departures,2007,34285000,Upper middle income
+Samoa,number of departures,2007,52000,Upper middle income
+Sri Lanka,number of departures,2007,862000,Upper middle income
+Turkey,number of departures,2007,4956000,Upper middle income
+Turkmenistan,number of departures,2007,38000,Upper middle income
+Tuvalu,number of departures,2007,2400,Upper middle income
+"Venezuela, RB",number of departures,2007,1410000,Upper middle income
+Albania,number of departures,2017,5186000,Upper middle income
+Algeria,number of departures,2017,5058000,Upper middle income
+Argentina,number of departures,2017,12258000,Upper middle income
+Armenia,number of departures,2017,1482000,Upper middle income
+Azerbaijan,number of departures,2017,4109000,Upper middle income
+Belarus,number of departures,2017,706000,Upper middle income
+Brazil,number of departures,2017,9458000,Upper middle income
+Bulgaria,number of departures,2017,6228000,Upper middle income
+Colombia,number of departures,2017,4017000,Upper middle income
+Costa Rica,number of departures,2017,1150000,Upper middle income
+Dominican Republic,number of departures,2017,522000,Upper middle income
+Ecuador,number of departures,2017,1547000,Upper middle income
+Fiji,number of departures,2017,169000,Upper middle income
+Georgia,number of departures,2017,3851000,Upper middle income
+Guatemala,number of departures,2017,1328000,Upper middle income
+"Iran, Islamic Rep.",number of departures,2017,10543000,Upper middle income
+Jordan,number of departures,2017,1592000,Upper middle income
+Mauritius,number of departures,2017,283000,Upper middle income
+Paraguay,number of departures,2017,1548000,Upper middle income
+Romania,number of departures,2017,19953000,Upper middle income
+Russian Federation,number of departures,2017,39629000,Upper middle income
+Samoa,number of departures,2017,55000,Upper middle income
+Sri Lanka,number of departures,2017,1439000,Upper middle income
+Turkey,number of departures,2017,8887000,Upper middle income
+"Venezuela, RB",number of departures,2017,1079000,Upper middle income
+Albania,number of arrivals,1997,119000,Upper middle income
+Algeria,number of arrivals,1997,635000,Upper middle income
+American Samoa,number of arrivals,1997,26000,Upper middle income
+Argentina,number of arrivals,1997,2764000,Upper middle income
+Armenia,number of arrivals,1997,23000,Upper middle income
+Belarus,number of arrivals,1997,253500,Upper middle income
+Belize,number of arrivals,1997,146000,Upper middle income
+Bosnia and Herzegovina,number of arrivals,1997,115000,Upper middle income
+Botswana,number of arrivals,1997,607000,Upper middle income
+Brazil,number of arrivals,1997,2850000,Upper middle income
+Bulgaria,number of arrivals,1997,2980000,Upper middle income
+Colombia,number of arrivals,1997,639000,Upper middle income
+Costa Rica,number of arrivals,1997,811000,Upper middle income
+Cuba,number of arrivals,1997,1153000,Upper middle income
+Dominica,number of arrivals,1997,65000,Upper middle income
+Dominican Republic,number of arrivals,1997,2211000,Upper middle income
+Ecuador,number of arrivals,1997,529000,Upper middle income
+Fiji,number of arrivals,1997,359000,Upper middle income
+Gabon,number of arrivals,1997,167000,Upper middle income
+Georgia,number of arrivals,1997,313000,Upper middle income
+Grenada,number of arrivals,1997,111000,Upper middle income
+Guatemala,number of arrivals,1997,576000,Upper middle income
+Guyana,number of arrivals,1997,76000,Upper middle income
+"Iran, Islamic Rep.",number of arrivals,1997,860000,Upper middle income
+Iraq,number of arrivals,1997,15000,Upper middle income
+Jamaica,number of arrivals,1997,1192000,Upper middle income
+Jordan,number of arrivals,1997,1132000,Upper middle income
+Kazakhstan,number of arrivals,1997,284000,Upper middle income
+Lebanon,number of arrivals,1997,558000,Upper middle income
+Malaysia,number of arrivals,1997,6211000,Upper middle income
+Maldives,number of arrivals,1997,366000,Upper middle income
+Marshall Islands,number of arrivals,1997,6400,Upper middle income
+Mauritius,number of arrivals,1997,536000,Upper middle income
+Namibia,number of arrivals,1997,502000,Upper middle income
+North Macedonia,number of arrivals,1997,121000,Upper middle income
+Paraguay,number of arrivals,1997,395000,Upper middle income
+Romania,number of arrivals,1997,5149000,Upper middle income
+Russian Federation,number of arrivals,1997,17463000,Upper middle income
+Samoa,number of arrivals,1997,68000,Upper middle income
+South Africa,number of arrivals,1997,4976000,Upper middle income
+Sri Lanka,number of arrivals,1997,366000,Upper middle income
+St. Lucia,number of arrivals,1997,248000,Upper middle income
+St. Vincent and the Grenadines,number of arrivals,1997,65000,Upper middle income
+Suriname,number of arrivals,1997,61000,Upper middle income
+Tonga,number of arrivals,1997,26000,Upper middle income
+Turkey,number of arrivals,1997,9040000,Upper middle income
+Turkmenistan,number of arrivals,1997,257000,Upper middle income
+Tuvalu,number of arrivals,1997,1000,Upper middle income
+"Venezuela, RB",number of arrivals,1997,814000,Upper middle income
+Albania,number of arrivals,2007,1062000,Upper middle income
+Algeria,number of arrivals,2007,1743000,Upper middle income
+American Samoa,number of arrivals,2007,24100,Upper middle income
+Argentina,number of arrivals,2007,4562000,Upper middle income
+Armenia,number of arrivals,2007,511000,Upper middle income
+Azerbaijan,number of arrivals,2007,732000,Upper middle income
+Belarus,number of arrivals,2007,105000,Upper middle income
+Belize,number of arrivals,2007,251000,Upper middle income
+Bosnia and Herzegovina,number of arrivals,2007,306000,Upper middle income
+Botswana,number of arrivals,2007,1736000,Upper middle income
+Brazil,number of arrivals,2007,5026000,Upper middle income
+Bulgaria,number of arrivals,2007,5151000,Upper middle income
+Colombia,number of arrivals,2007,2254000,Upper middle income
+Costa Rica,number of arrivals,2007,1980000,Upper middle income
+Cuba,number of arrivals,2007,2119000,Upper middle income
+Dominica,number of arrivals,2007,81000,Upper middle income
+Dominican Republic,number of arrivals,2007,3980000,Upper middle income
+Ecuador,number of arrivals,2007,937000,Upper middle income
+Fiji,number of arrivals,2007,540000,Upper middle income
+Georgia,number of arrivals,2007,1052000,Upper middle income
+Grenada,number of arrivals,2007,130000,Upper middle income
+Guatemala,number of arrivals,2007,1628000,Upper middle income
+Guyana,number of arrivals,2007,134000,Upper middle income
+"Iran, Islamic Rep.",number of arrivals,2007,2219000,Upper middle income
+Jamaica,number of arrivals,2007,1701000,Upper middle income
+Jordan,number of arrivals,2007,3431000,Upper middle income
+Kazakhstan,number of arrivals,2007,5311000,Upper middle income
+Lebanon,number of arrivals,2007,1017000,Upper middle income
+Libya,number of arrivals,2007,38000,Upper middle income
+Malaysia,number of arrivals,2007,20973000,Upper middle income
+Maldives,number of arrivals,2007,676000,Upper middle income
+Marshall Islands,number of arrivals,2007,7200,Upper middle income
+Mauritius,number of arrivals,2007,907000,Upper middle income
+Montenegro,number of arrivals,2007,984000,Upper middle income
+Namibia,number of arrivals,2007,929000,Upper middle income
+North Macedonia,number of arrivals,2007,230000,Upper middle income
+Paraguay,number of arrivals,2007,416000,Upper middle income
+Romania,number of arrivals,2007,7722000,Upper middle income
+Russian Federation,number of arrivals,2007,22909000,Upper middle income
+Samoa,number of arrivals,2007,117000,Upper middle income
+Serbia,number of arrivals,2007,696000,Upper middle income
+South Africa,number of arrivals,2007,9091000,Upper middle income
+Sri Lanka,number of arrivals,2007,494000,Upper middle income
+St. Lucia,number of arrivals,2007,287000,Upper middle income
+St. Vincent and the Grenadines,number of arrivals,2007,90000,Upper middle income
+Suriname,number of arrivals,2007,167000,Upper middle income
+Tonga,number of arrivals,2007,46000,Upper middle income
+Turkey,number of arrivals,2007,26122000,Upper middle income
+Turkmenistan,number of arrivals,2007,8200,Upper middle income
+Tuvalu,number of arrivals,2007,1100,Upper middle income
+"Venezuela, RB",number of arrivals,2007,756000,Upper middle income
+Albania,number of arrivals,2017,4643000,Upper middle income
+Algeria,number of arrivals,2017,2451000,Upper middle income
+American Samoa,number of arrivals,2017,20000,Upper middle income
+Argentina,number of arrivals,2017,6720000,Upper middle income
+Armenia,number of arrivals,2017,1495000,Upper middle income
+Azerbaijan,number of arrivals,2017,2454000,Upper middle income
+Belarus,number of arrivals,2017,11060200,Upper middle income
+Belize,number of arrivals,2017,427000,Upper middle income
+Bosnia and Herzegovina,number of arrivals,2017,923000,Upper middle income
+Brazil,number of arrivals,2017,6589000,Upper middle income
+Bulgaria,number of arrivals,2017,8883000,Upper middle income
+Colombia,number of arrivals,2017,4113000,Upper middle income
+Costa Rica,number of arrivals,2017,2960000,Upper middle income
+Cuba,number of arrivals,2017,4594000,Upper middle income
+Dominica,number of arrivals,2017,72000,Upper middle income
+Dominican Republic,number of arrivals,2017,6188000,Upper middle income
+Ecuador,number of arrivals,2017,1608000,Upper middle income
+Fiji,number of arrivals,2017,843000,Upper middle income
+Georgia,number of arrivals,2017,6483000,Upper middle income
+Grenada,number of arrivals,2017,168000,Upper middle income
+Guatemala,number of arrivals,2017,2113000,Upper middle income
+Guyana,number of arrivals,2017,247000,Upper middle income
+"Iran, Islamic Rep.",number of arrivals,2017,4867000,Upper middle income
+Jamaica,number of arrivals,2017,2353000,Upper middle income
+Jordan,number of arrivals,2017,3843500,Upper middle income
+Kazakhstan,number of arrivals,2017,7701000,Upper middle income
+Lebanon,number of arrivals,2017,1857000,Upper middle income
+Malaysia,number of arrivals,2017,25948000,Upper middle income
+Maldives,number of arrivals,2017,1390000,Upper middle income
+Marshall Islands,number of arrivals,2017,6000,Upper middle income
+Mauritius,number of arrivals,2017,1342000,Upper middle income
+Montenegro,number of arrivals,2017,1877000,Upper middle income
+Namibia,number of arrivals,2017,1499000,Upper middle income
+North Macedonia,number of arrivals,2017,631000,Upper middle income
+Paraguay,number of arrivals,2017,1584000,Upper middle income
+Romania,number of arrivals,2017,10926000,Upper middle income
+Russian Federation,number of arrivals,2017,24390000,Upper middle income
+Samoa,number of arrivals,2017,146000,Upper middle income
+Serbia,number of arrivals,2017,1497000,Upper middle income
+South Africa,number of arrivals,2017,10285000,Upper middle income
+Sri Lanka,number of arrivals,2017,2116400,Upper middle income
+St. Lucia,number of arrivals,2017,386000,Upper middle income
+St. Vincent and the Grenadines,number of arrivals,2017,76000,Upper middle income
+Suriname,number of arrivals,2017,278000,Upper middle income
+Tonga,number of arrivals,2017,62500,Upper middle income
+Turkey,number of arrivals,2017,37601000,Upper middle income
+Tuvalu,number of arrivals,2017,2500,Upper middle income
+"Venezuela, RB",number of arrivals,2017,427000,Upper middle income
+Bangladesh,number of departures,1997,866000,Lower middle income
+Bolivia,number of departures,1997,285000,Lower middle income
+Cambodia,number of departures,1997,45000,Lower middle income
+"Egypt, Arab Rep.",number of departures,1997,2722000,Lower middle income
+El Salvador,number of departures,1997,627000,Lower middle income
+Honduras,number of departures,1997,183000,Lower middle income
+Morocco,number of departures,1997,1203000,Lower middle income
+Nicaragua,number of departures,1997,330000,Lower middle income
+Papua New Guinea,number of departures,1997,64000,Lower middle income
+Philippines,number of departures,1997,1930000,Lower middle income
+Tunisia,number of departures,1997,1381000,Lower middle income
+Ukraine,number of departures,1997,9632000,Lower middle income
+Vanuatu,number of departures,1997,11000,Lower middle income
+Zimbabwe,number of departures,1997,123000,Lower middle income
+Bangladesh,number of departures,2007,2327000,Lower middle income
+Bolivia,number of departures,2007,526000,Lower middle income
+Cambodia,number of departures,2007,996000,Lower middle income
+El Salvador,number of departures,2007,1012000,Lower middle income
+Eswatini,number of departures,2007,1130000,Lower middle income
+Honduras,number of departures,2007,315000,Lower middle income
+Kyrgyz Republic,number of departures,2007,559000,Lower middle income
+Morocco,number of departures,2007,2669000,Lower middle income
+Nicaragua,number of departures,2007,949000,Lower middle income
+Philippines,number of departures,2007,3066000,Lower middle income
+Tunisia,number of departures,2007,2743000,Lower middle income
+Ukraine,number of departures,2007,17335000,Lower middle income
+Vanuatu,number of departures,2007,16000,Lower middle income
+Zimbabwe,number of departures,2007,547000,Lower middle income
+Bolivia,number of departures,2017,1105000,Lower middle income
+Cambodia,number of departures,2017,1752000,Lower middle income
+El Salvador,number of departures,2017,1871000,Lower middle income
+Eswatini,number of departures,2017,1751000,Lower middle income
+Kyrgyz Republic,number of departures,2017,4446000,Lower middle income
+Moldova,number of departures,2017,229000,Lower middle income
+Morocco,number of departures,2017,1849000,Lower middle income
+Nicaragua,number of departures,2017,982000,Lower middle income
+Ukraine,number of departures,2017,26437000,Lower middle income
+Vanuatu,number of departures,2017,28000,Lower middle income
+Zimbabwe,number of departures,2017,2768000,Lower middle income
+Angola,number of arrivals,1997,45000,Lower middle income
+Bangladesh,number of arrivals,1997,182000,Lower middle income
+Bhutan,number of arrivals,1997,5400,Lower middle income
+Bolivia,number of arrivals,1997,355000,Lower middle income
+Cabo Verde,number of arrivals,1997,45000,Lower middle income
+Cambodia,number of arrivals,1997,219000,Lower middle income
+Comoros,number of arrivals,1997,26000,Lower middle income
+"Congo, Rep.",number of arrivals,1997,27000,Lower middle income
+Djibouti,number of arrivals,1997,20000,Lower middle income
+"Egypt, Arab Rep.",number of arrivals,1997,3656000,Lower middle income
+El Salvador,number of arrivals,1997,387000,Lower middle income
+Eswatini,number of arrivals,1997,269000,Lower middle income
+Ghana,number of arrivals,1997,325000,Lower middle income
+Honduras,number of arrivals,1997,307000,Lower middle income
+Kenya,number of arrivals,1997,928000,Lower middle income
+Kiribati,number of arrivals,1997,5100,Lower middle income
+Kyrgyz Republic,number of arrivals,1997,87000,Lower middle income
+Lesotho,number of arrivals,1997,313000,Lower middle income
+"Micronesia, Fed. Sts.",number of arrivals,1997,17200,Lower middle income
+Mongolia,number of arrivals,1997,82000,Lower middle income
+Morocco,number of arrivals,1997,3072000,Lower middle income
+Myanmar,number of arrivals,1997,491000,Lower middle income
+Nicaragua,number of arrivals,1997,358000,Lower middle income
+Nigeria,number of arrivals,1997,611000,Lower middle income
+Pakistan,number of arrivals,1997,375000,Lower middle income
+Papua New Guinea,number of arrivals,1997,66000,Lower middle income
+Philippines,number of arrivals,1997,2223000,Lower middle income
+Sao Tome and Principe,number of arrivals,1997,4800,Lower middle income
+Senegal,number of arrivals,1997,314000,Lower middle income
+Solomon Islands,number of arrivals,1997,13800,Lower middle income
+Sudan,number of arrivals,1997,30000,Lower middle income
+Tunisia,number of arrivals,1997,4263000,Lower middle income
+Ukraine,number of arrivals,1997,7558000,Lower middle income
+Uzbekistan,number of arrivals,1997,960000,Lower middle income
+Vanuatu,number of arrivals,1997,50000,Lower middle income
+Vietnam,number of arrivals,1997,1716000,Lower middle income
+West Bank and Gaza,number of arrivals,1997,210000,Lower middle income
+Zambia,number of arrivals,1997,341000,Lower middle income
+Zimbabwe,number of arrivals,1997,1336000,Lower middle income
+Angola,number of arrivals,2007,195000,Lower middle income
+Bangladesh,number of arrivals,2007,289000,Lower middle income
+Bhutan,number of arrivals,2007,21000,Lower middle income
+Bolivia,number of arrivals,2007,573000,Lower middle income
+Cabo Verde,number of arrivals,2007,267000,Lower middle income
+Cambodia,number of arrivals,2007,2015000,Lower middle income
+Cameroon,number of arrivals,2007,477000,Lower middle income
+Comoros,number of arrivals,2007,15200,Lower middle income
+"Congo, Rep.",number of arrivals,2007,55000,Lower middle income
+Cote d'Ivoire,number of arrivals,2007,182000,Lower middle income
+Djibouti,number of arrivals,2007,40000,Lower middle income
+"Egypt, Arab Rep.",number of arrivals,2007,10610000,Lower middle income
+El Salvador,number of arrivals,2007,1339000,Lower middle income
+Eswatini,number of arrivals,2007,869000,Lower middle income
+Ghana,number of arrivals,2007,587000,Lower middle income
+Honduras,number of arrivals,2007,804000,Lower middle income
+Kenya,number of arrivals,2007,1686000,Lower middle income
+Kiribati,number of arrivals,2007,4700,Lower middle income
+Kyrgyz Republic,number of arrivals,2007,1656000,Lower middle income
+Lesotho,number of arrivals,2007,300000,Lower middle income
+"Micronesia, Fed. Sts.",number of arrivals,2007,21100,Lower middle income
+Moldova,number of arrivals,2007,70000,Lower middle income
+Mongolia,number of arrivals,2007,452000,Lower middle income
+Morocco,number of arrivals,2007,7408000,Lower middle income
+Myanmar,number of arrivals,2007,716000,Lower middle income
+Nicaragua,number of arrivals,2007,800000,Lower middle income
+Nigeria,number of arrivals,2007,1212000,Lower middle income
+Pakistan,number of arrivals,2007,840000,Lower middle income
+Papua New Guinea,number of arrivals,2007,104000,Lower middle income
+Philippines,number of arrivals,2007,3092000,Lower middle income
+Sao Tome and Principe,number of arrivals,2007,11800,Lower middle income
+Senegal,number of arrivals,2007,875000,Lower middle income
+Solomon Islands,number of arrivals,2007,13700,Lower middle income
+Sudan,number of arrivals,2007,436000,Lower middle income
+Timor-Leste,number of arrivals,2007,22000,Lower middle income
+Tunisia,number of arrivals,2007,6762000,Lower middle income
+Ukraine,number of arrivals,2007,23122000,Lower middle income
+Uzbekistan,number of arrivals,2007,903000,Lower middle income
+Vanuatu,number of arrivals,2007,81000,Lower middle income
+Vietnam,number of arrivals,2007,4229000,Lower middle income
+West Bank and Gaza,number of arrivals,2007,264000,Lower middle income
+Zambia,number of arrivals,2007,897000,Lower middle income
+Zimbabwe,number of arrivals,2007,2506000,Lower middle income
+Angola,number of arrivals,2017,261000,Lower middle income
+Bhutan,number of arrivals,2017,255000,Lower middle income
+Bolivia,number of arrivals,2017,1134000,Lower middle income
+Cabo Verde,number of arrivals,2017,668000,Lower middle income
+Cambodia,number of arrivals,2017,5602000,Lower middle income
+Comoros,number of arrivals,2017,28000,Lower middle income
+"Congo, Rep.",number of arrivals,2017,206000,Lower middle income
+Cote d'Ivoire,number of arrivals,2017,1800000,Lower middle income
+"Egypt, Arab Rep.",number of arrivals,2017,8157000,Lower middle income
+El Salvador,number of arrivals,2017,1556000,Lower middle income
+Eswatini,number of arrivals,2017,921000,Lower middle income
+Honduras,number of arrivals,2017,851000,Lower middle income
+Kenya,number of arrivals,2017,1364000,Lower middle income
+Kiribati,number of arrivals,2017,5800,Lower middle income
+Kyrgyz Republic,number of arrivals,2017,4568000,Lower middle income
+Lesotho,number of arrivals,2017,1137000,Lower middle income
+Moldova,number of arrivals,2017,145000,Lower middle income
+Mongolia,number of arrivals,2017,469000,Lower middle income
+Morocco,number of arrivals,2017,11349000,Lower middle income
+Myanmar,number of arrivals,2017,3443000,Lower middle income
+Nicaragua,number of arrivals,2017,1787000,Lower middle income
+Philippines,number of arrivals,2017,6621000,Lower middle income
+Senegal,number of arrivals,2017,1365000,Lower middle income
+Solomon Islands,number of arrivals,2017,25700,Lower middle income
+Sudan,number of arrivals,2017,813000,Lower middle income
+Timor-Leste,number of arrivals,2017,74000,Lower middle income
+Tunisia,number of arrivals,2017,7052000,Lower middle income
+Ukraine,number of arrivals,2017,14230000,Lower middle income
+Uzbekistan,number of arrivals,2017,2690000,Lower middle income
+Vanuatu,number of arrivals,2017,109000,Lower middle income
+Vietnam,number of arrivals,2017,12922000,Lower middle income
+West Bank and Gaza,number of arrivals,2017,503000,Lower middle income
+Zambia,number of arrivals,2017,1083000,Lower middle income
+Zimbabwe,number of arrivals,2017,2423000,Lower middle income

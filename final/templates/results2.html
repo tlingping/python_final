@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ the_title }}</title>
+    <h1>{{ the_title }}</h1>
+    <link rel="stylesheet" href="static/hf.css"/>
+</head>
+<body>
+<form method="POST" action="/hurun">
+<select name="the_region_selected">
+
+        {% for item in the_select_region %}
+            <option value="{{ item }}">{{ item }}</option>
+        {% endfor %}
+    </select>
+<p><input value='Do it!' type='SUBMIT'></p>
+
+</form>
+<form method="GET" action="/arrivals">
+    <p><input value='2010、2013、2017国际入境人数' type='SUBMIT'></p>
+</form>
+<form method="GET" action="/departure">
+    <p><input value='2010、2013、2017国际离境人数' type='SUBMIT'></p>
+</form>
+
+<form method="GET" action="/high">
+    <p><input value='高收入水平国家的出入境人数' type='SUBMIT'></p>
+</form>
+
+<form method="GET" action="/low">
+    <p><input value='低收入水平国家的出入境人数' type='SUBMIT'></p>
+</form>
+
+{{ the_plot_all|safe }}
+{{ the_res|safe }}
+
+
+</body>
+</html>
