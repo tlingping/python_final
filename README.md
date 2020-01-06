@@ -13,17 +13,19 @@
 
 
 ### html文档介绍
-results2.html: 首页及返回页html
-index.html：总结页html
+* results2.html: 首页及返回页html
+* index.html：总结页html
+* 运用内部联合嵌套的CSS样式渲染丰富页面，设置background-color为渐变色
 
 ### python代码
-使用模块：flask、pandas、pyecharts、numpy、cufflinks、plotly
-读取数据：使用pandas读取csv文件，并以提取country值
-处理数据：共使用了6个csv表格
-python 文档与html文档的数据交互：利用传值，结合html模板数据
+* 包含了基本的templates、static、app.py，以及CSV数据文档，python 文档与html文档的数据交互：利用传值，结合html模板数据
+* 使用模块：flask、pandas、pyecharts、numpy、cufflinks、plotly
+* 读取数据：使用pandas读取csv文件，并以提取country值
+* 处理数据：共使用了6个csv表格
+
 
 ### web app动作
-* 链接到以下路径 实现图表交互
+* 链接到以下路径，可进行页面切换，实现图表交互
 /arrivals
 /departure
 /high
